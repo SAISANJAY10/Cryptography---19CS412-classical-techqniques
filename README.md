@@ -652,4 +652,4 @@ int main() {
 
 
 ## Result 
-The Program for rail fence is Executed Sucessgfully.
+The Program for rail fence is Executed Sucessfully.
